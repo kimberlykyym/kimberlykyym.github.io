@@ -9,6 +9,10 @@
         
             height: 100%
         }
+        .xxd{width:100%;
+            background-color: black;
+            text-decoration: none;
+            color: white;}
         body {
             width: 21cm;
             height: 100%;
